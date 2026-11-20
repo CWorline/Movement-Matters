@@ -1,0 +1,32 @@
+---
+title: "Physical Inactivity and Obesity in America"
+subtitle: "Analysis of the 2024 CDC BRFSS"
+---
+
+## Introduction
+
+Physical inactivity and obesity are important public health concerns in the United States.
+
+This report examines the relationship between leisure-time physical inactivity and obesity among U.S. adults.
+
+### Research Question
+
+How is leisure-time physical inactivity associated with obesity among U.S. adults, and does this relationship differ by age and sex?
+
+## Methods
+
+This study will use data from the 2024 Behavioral Risk Factor Surveillance System (BRFSS).
+
+The analysis will include descriptive statistics,survey-weighted comparisons,and regression analysis.
+
+## Results
+
+*Results and visualizations will be added after the dataset has been cleaned and analyzed.*
+
+### Obesity Prevalence by Physical Activity
+
+*Figure 1 will appear here.*
+
+### Differences Across Age Groups
+
+*Figure 2 will appear here.*
